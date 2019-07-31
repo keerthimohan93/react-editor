@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  width: 70%;
+}
+.quill {
+  height: 300px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.App-link {
+  color: #61dafb;
+}
+
